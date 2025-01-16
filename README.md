@@ -68,6 +68,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou submet
 
 ---
 
-**Autor:** Cleitin157666\
+**Autor:** João Vittor Fontes\
 **Licença:** MIT
 
